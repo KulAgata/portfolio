@@ -21,7 +21,7 @@ CyberPlac - Podstaw testowania w IT
 SQL
 Zadania SQL
 ## **MOJE PRZYPADKI TESTOWE**
-[portfolio](Przypadki testowe - chat GPT.pdf) 
+[Portfolio](Przypadki testowe - chat GPT.pdf) 
 b)
 c)
 ## **MOJE ZGŁOSZENIA BŁĘDÓW**
