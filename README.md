@@ -22,5 +22,7 @@ SQL
 Zadania SQL
 ## **MOJE PRZYPADKI TESTOWE**
 * [Przypadki testowe - chat GPT.pdf](https://github.com/KulAgata/portfolio/blob/main/Przypadki%20testowe%20-%20chat%20GPT.pdf)
-* 
+* [Przypadki testowe - logowanie.pdf](https://github.com/KulAgata/portfolio/blob/main/Przypadki%20testowe%20-%20logowanie.pdf)
 ## **MOJE ZGŁOSZENIA BŁĘDÓW**
+[Zgłaszanie błędów - sklep Akord.pdf](https://github.com/KulAgata/portfolio/blob/main/Zg%C5%82aszanie%20b%C5%82e%CC%A8do%CC%81w%20-%20sklep%20Akord.pdf)
+[Zgłaszanie błędu - chatGPT.pdf](https://github.com/KulAgata/portfolio/blob/main/Zg%C5%82aszanie%20b%C5%82e%CC%A8du%20-%20chatGPT.pdf)
