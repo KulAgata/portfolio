@@ -12,11 +12,8 @@ Testowanie oprogramowania
 * Zgłaszanie błędów
 * Pisanie scenariuszy
 Sporządzanie raportów cząstkowych i pełnych
-WYKSZTAŁCENIE
-Szkolenie indywidualne Tester manualny - Waldemar Szafraniec
-SDA Tester oprogramowania
-Bootcamp testerski Bugfigthers - Justyna Kałek
-CyberPlac - Podstaw testowania w IT
+## **WYKSZTAŁCENIE**
+- 
 ## **W PRAKTYCE:**
 SQL
 Zadania SQL
