@@ -13,7 +13,9 @@ Testowanie oprogramowania
 * Pisanie scenariuszy
 Sporządzanie raportów cząstkowych i pełnych
 ## **WYKSZTAŁCENIE**
-- 
+- Merito Wyższa Szkoła Bankowa
+- Zarządzanie nowoczesnymi usługami biznesowymi - studia magisterskie
+2023-2025
 ## **W PRAKTYCE:**
 SQL
 Zadania SQL
