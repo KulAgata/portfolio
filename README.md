@@ -12,10 +12,16 @@ Testowanie oprogramowania
 * Zgłaszanie błędów
 * Pisanie scenariuszy
 Sporządzanie raportów cząstkowych i pełnych
-## **WYKSZTAŁCENIE**
-- Merito Wyższa Szkoła Bankowa
-- Zarządzanie nowoczesnymi usługami biznesowymi - studia magisterskie
-2023-2025
+## **WYKSZTAŁCENIE**  
+**Merito Wyższa Szkoła Bankowa**  
+Zarządzanie nowoczesnymi usługami biznesowymi - studia magisterskie
+2023-2025  
+**Śląska Wyższa Szkoła Medyczna w
+Katowicach**  
+Kosmetologia - studia magisterskie 2021-2023  
+**Śląska Wyższa Szkoła Medyczna w
+Katowicach**  
+Kosmetologia - licencjat 2018-2021
 ## **W PRAKTYCE:**
 SQL
 Zadania SQL
