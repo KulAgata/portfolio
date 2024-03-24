@@ -23,8 +23,6 @@ Kosmetologia - studia magisterskie 2021-2023
 Katowicach**  
 Kosmetologia - licencjat 2018-2021
 ## **W PRAKTYCE:**
-SQL
-Zadania SQL
 ## **PRZYPADKI TESTOWE**
 * [Przypadki testowe - chat GPT.pdf](https://github.com/KulAgata/portfolio/blob/main/Przypadki%20testowe%20-%20chat%20GPT.pdf)
 * [Przypadki testowe - logowanie.pdf](https://github.com/KulAgata/portfolio/blob/main/Przypadki%20testowe%20-%20logowanie.pdf)
