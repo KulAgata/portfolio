@@ -6,6 +6,7 @@ Jestem osobą dokładną, zwracjącą uwagę na szczegóły, chętną do poznawa
 * Poznane metody zarządzania: Scrum
 * Do tworzenia repozytorium: GitHub
 * Język programowania: SQL
+* Program do testowania API: Postman
 ## **UMIEJĘTNOŚCI TECHNICZNE**
 * Testowanie oprogramowania
 * Tworzenie przypadków testowych
