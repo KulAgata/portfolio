@@ -1,6 +1,6 @@
 # **PORTFOLIO**
 ## **O MNIE**
-Jestem osobą dokładną, zwracjącą uwagę na szczegóły, chętną do poznawania nowych rzeczy. Praca z klientem pozwoliła mi szlifować umiejętności komunikacyjne, a praca w zespole nauczyła mnie współpracy oraz brania odpowiedzialności za swoje decyzje. Aktualnie studiuje zarządzanie, ze specjalizacją w zarządzaniu nowoczesnymi usługami biznesowymi, aby z lepszym zrozumieniem działać w dynamicznie zmieniającym się świecie biznesu.
+Jestem osobą dokładną, zwracającą uwagę na szczegóły, chętną do poznawania nowych rzeczy. Praca z klientem pozwoliła mi szlifować umiejętności komunikacyjne, a praca w zespole nauczyła mnie współpracy oraz brania odpowiedzialności za swoje decyzje. Aktualnie studiuje zarządzanie, ze specjalizacją w zarządzaniu nowoczesnymi usługami biznesowymi, aby z lepszym zrozumieniem działać w dynamicznie zmieniającym się świecie biznesu.
 ## **NARZĘDZIA**
 * Do zarządzania testowaniem: Jira
 * Poznane metody zarządzania: Scrum
