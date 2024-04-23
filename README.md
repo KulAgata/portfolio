@@ -6,7 +6,7 @@ Jestem osobą dokładną, zwracjącą uwagę na szczegóły, chętną do poznawa
 * Poznane metody zarządzania: Scrum
 * Do tworzenia repozytorium: GitHub
 * Język programowania: SQL
-* Program do testowania API: Postman
+* Program do testowania API: [Postman] (https://github.com/KulAgata/portfolio/blob/main/Postman%20certyfikat%20kursu.pdf)
 ## **UMIEJĘTNOŚCI TECHNICZNE**
 * Testowanie oprogramowania
 * Tworzenie przypadków testowych
