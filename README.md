@@ -7,6 +7,7 @@ Jestem osobą dokładną, zwracjącą uwagę na szczegóły, chętną do poznawa
 * Do tworzenia repozytorium: GitHub
 * Język programowania: SQL
 * Program do testowania API: [Postman](https://github.com/KulAgata/portfolio/blob/main/Postman%20certyfikat%20kursu.pdf)
+* MS Office: [Excel1](https://github.com/KulAgata/portfolio/blob/main/Excel%20kurs1.pdf), [Excel2](https://github.com/KulAgata/portfolio/blob/main/Excel%20kurs2.pdf)
 ## **UMIEJĘTNOŚCI TECHNICZNE**
 * Testowanie oprogramowania
 * Tworzenie przypadków testowych
